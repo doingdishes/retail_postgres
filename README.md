@@ -34,4 +34,3 @@ FROM 'path to csv' DELIMITER ',' CSV HEADER;
 alternatively, one could use the function from importcsv.py to import a csv to the database if they do not want to work in psql. this method is not recommended as it is generally slower than using psql, especially if the csv is large.
 
 there is another module for converting excel workbooks to csv using pandas and openpyxl. this is under transformations.py
-
