@@ -1,6 +1,7 @@
 '''
 this file contains a function for a user to enter
 their own connection details
+currently bugged
 '''
 
 import pandas as pd
